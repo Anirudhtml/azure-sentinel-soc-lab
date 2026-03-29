@@ -41,9 +41,8 @@ SecurityEvent
 | Sub-technique | T1110.001 – Password Guessing |
 
 ## Screenshots
-![Alert Firing and other related screenshots]
-(../Screenshots/failed-login-alert-1.png)
-(../Screenshots/failed-login-resolved.png)
+![Alert Firing](../Screenshots/failed-login-alert-1.png)
+![Alert Resolved](../Screenshots/failed-login-resolved.png)
 
 ## Findings
 Simulated 10 consecutive failed login attempts within 60 seconds. Alert triggered 
