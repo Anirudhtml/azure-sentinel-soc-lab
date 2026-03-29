@@ -104,10 +104,10 @@ SecurityEvent
 
 | Description | Preview |
 |---|---|
-| Sentinel Incident Queue | *(Screenshots/account-enumeration-alert.png)* |
-| KQL Query – Account Enumeration | *(Screenshots/Log-query-2.png)* |
-| Analytics Rule Configuration | *(Screenshots/rule-creation.png)* |
-| Incident Resolved | *(Screenshots/resolved-case.png)* |
+| Sentinel Incident Queue | ![Incident Queue](Screenshots/account-enumeration-alert.png) |
+| KQL Query – Account Enumeration | ![KQL Query](Screenshots/Log-query-2.png) |
+| Analytics Rule Configuration | ![Analytics Rule](Screenshots/rule-creation.png) |
+| Incident Resolved | ![Incident Resolved](Screenshots/resolved-case.png) |
 
 ---
 
