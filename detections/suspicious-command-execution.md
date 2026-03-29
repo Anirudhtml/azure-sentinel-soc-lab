@@ -42,8 +42,8 @@ SecurityEvent
 | Sub-technique | T1059.003 – Windows Command Shell |
 
 ## Screenshots
-![Running the comands](../running-nested-commands.png)
-![Alert Firing]*(left)*
+![Running the comands](../Screenshots/running-nested-commands.png)
+![Alert Firing](../Screenshots/alert-3.png)
 ![KQL Query](../Screenshots/Log-query-3.png)
 ![Alert resolved](../Screenshots/resolved-case.png)
 
